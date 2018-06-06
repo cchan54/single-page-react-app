@@ -7,7 +7,7 @@ class Home extends Component {
         <h2>HELLO</h2>
         <p>
           This was created for learning purposes. This is a single page
-          application.
+          application. Should I turn this into a blog of some sort?
         </p>
       </div>
     );
