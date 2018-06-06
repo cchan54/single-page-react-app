@@ -5,15 +5,13 @@ class Stuff extends Component {
     return (
       <div>
         <h2>STUFF</h2>
-        <p>
-          Mauris sem velit, vehicula eget sodales vitae, rhoncus eget sapien:
-        </p>
+        <p>Things that are currently in my fridge:</p>
         <ol>
-          <li>Nulla pulvinar diam</li>
-          <li>Facilisis bibendum</li>
-          <li>Vestibulum vulputate</li>
-          <li>Eget erat</li>
-          <li>Id porttitor</li>
+          <li>Peanut Butter</li>
+          <li>Strawberry Jam</li>
+          <li>Meatballs</li>
+          <li>Blueberry Yogurt</li>
+          <li>Watermelon Pie</li>
         </ol>
       </div>
     );
